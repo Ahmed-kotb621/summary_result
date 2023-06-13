@@ -21,3 +21,7 @@
 
 ### Font Family >>  Hanken Grotesk [google fonts];
 
+## Screen shots
+
+![summary1](https://github.com/Ahmed-kotb621/summary_result.github.io/assets/75045581/160bfa4a-42a8-4766-a27e-2777dc873824)
+![summary2](https://github.com/Ahmed-kotb621/summary_result.github.io/assets/75045581/b87fc01d-5d3b-4cb8-8cf6-ea9f090fbb64)
