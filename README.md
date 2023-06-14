@@ -19,7 +19,8 @@
 
 ## Font Family
 
-### Font Family >>  Hanken Grotesk [google fonts];
+### Font Family 
+[Hanken Grotesk] https://fonts.google.com/specimen/Hanken+Grotesk?query=Hanken+
 
 ## Screen shots
 #### Desktop
