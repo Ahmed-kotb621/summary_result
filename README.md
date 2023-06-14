@@ -20,7 +20,7 @@
 ## Font Family
 
 ### Font Family 
-[Hanken Grotesk] https://fonts.google.com/specimen/Hanken+Grotesk?query=Hanken+
+[Hanken Grotesk] (https://fonts.google.com/specimen/Hanken+Grotesk?query=Hanken+)
 
 ## Screen shots
 #### Desktop
